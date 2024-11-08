@@ -7,10 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World, this is Tharunika L my roll number is 22CB059
-        </p>
-        <p>
-          III CSBS
+          Hello World - Tharunika L - 22CB059
         </p>
 
         <a
