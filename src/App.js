@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World - Tharunika L - 22CB059
+          Best read of the year- God of the  Woods
         </p>
 
         <a
